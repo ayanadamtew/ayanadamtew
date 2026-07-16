@@ -99,9 +99,6 @@ mood: "if it compiles, it's love" 💜
 <img src="https://raw.githubusercontent.com/ayanadamtew/ayanadamtew/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> 💡 to activate the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates that svg for you.
-
----
 
 <div align="center">
 
