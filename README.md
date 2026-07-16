@@ -34,6 +34,9 @@ mood: "if it compiles, it's love" 💜
 <a href="https://www.facebook.com/fasika.dam?mibextid=ZbWKwL" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/a.yu.da" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/ayana-damtew-7b41a7234" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -41,8 +44,6 @@ mood: "if it compiles, it's love" 💜
   <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 </p>
-
-> 📝 note: your Instagram badge was actually linking to your LinkedIn URL, so I left it out for now — drop your real IG handle in and I'll wire it back up.
 
 ---
 
