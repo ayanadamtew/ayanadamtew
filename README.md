@@ -80,30 +80,9 @@ mood: "if it compiles, it's love" 💜
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayanadamtew&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanadamtew&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanadamtew&theme=radical&hide_border=true&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com/?user=ayanadamtew&theme=radical&hide_border=true" />
 
 </div>
-
-> 🛠️ **if these look broken:** the official instance is currently getting paused a lot due to shared-traffic overload (a known, widely-reported issue, not your setup). The permanent fix is self-hosting: fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats), click its "Deploy to Vercel" button, then replace `github-readme-stats.vercel.app` above with the domain Vercel gives you. Until you do that, these badges will keep flickering in and out whenever the shared instance is paused.
-
-### 🏆 trophy cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayanadamtew&theme=radical&no-frame=true&margin-w=6&row=1"/>
-</div>
-
-> 🛠️ **if this looks broken:** same root cause as above. Fork [`ryo-ma/github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy), deploy your own copy to Vercel, then swap `github-profile-trophy.vercel.app` for your own domain. If you'd rather not self-host, the [project's README lists volunteer-hosted mirrors](https://github.com/ryo-ma/github-profile-trophy) — just note those are shared too, so they can also go down.
-
-### 🐍 contribution snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ayanadamtew/ayanadamtew/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 to activate the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates that svg for you.
 
 ---
 
@@ -112,8 +91,6 @@ mood: "if it compiles, it's love" 💜
 ### 💬 random dev quote because why not
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://visitcount.itsvg.in/api?id=ayanadamtew&icon=0&color=6" />
 
 <sub>thanks for stopping by — go touch grass, then come back and commit ✨</sub>
 
