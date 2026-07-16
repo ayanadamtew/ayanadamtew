@@ -80,10 +80,10 @@ mood: "if it compiles, it's love" 💜
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayanadamtew&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanadamtew&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayanadamtew&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanadamtew&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanadamtew&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanadamtew&theme=radical&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -93,12 +93,16 @@ mood: "if it compiles, it's love" 💜
 <img src="https://github-profile-trophy.vercel.app/?username=ayanadamtew&theme=radical&no-frame=true&margin-w=6&row=1"/>
 </div>
 
+> ⚠️ this widget doesn't support a cache param, so if it's blank, it's just the free Vercel instance being overloaded — refresh in a bit. If it stays down a lot, swap the `src` for `https://github-trophies.vercel.app/?username=ayanadamtew&theme=radical&no-frame=true&margin-w=6&row=1` (a community fork of the same project) as a fallback.
+
 ### 🐍 contribution snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ayanadamtew/ayanadamtew/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+
+---
 
 <div align="center">
 
